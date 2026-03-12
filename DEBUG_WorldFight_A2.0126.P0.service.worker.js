@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1773244187|10387095052';
+const CACHE_VERSION = '1773342784|206224727';
 /** @type {string} */
 const CACHE_PREFIX = 'World Fight Offl-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
